@@ -1,0 +1,13 @@
+{
+  "score": 97,
+  "metrics": {
+    "first-contentful-paint": "0.8 s",
+    "largest-contentful-paint": "2.6 s",
+    "total-blocking-time": "40 ms",
+    "cumulative-layout-shift": "0",
+    "speed-index": "0.8 s"
+  },
+  "version": "13.6.0",
+  "fecha": "2026-11-27T03:18:50.253Z",
+  "throttlingMethod": "simulate"
+}

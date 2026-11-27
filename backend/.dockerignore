@@ -1,0 +1,9 @@
+.git
+.env*
+node_modules
+.next
+vendor
+docs
+*.md
+storage/logs/*
+bootstrap/cache/*.php

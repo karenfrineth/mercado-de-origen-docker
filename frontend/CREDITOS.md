@@ -1,0 +1,3 @@
+- cacao: Photo by Medicaster.. [Cocoa_Pods.JPG](https://commons.wikimedia.org/wiki/File:Cocoa_Pods.JPG). Public domain. Imagen redimensionada.
+- cafe: MarkSweep. [Roasted_coffee_beans.jpg](https://commons.wikimedia.org/wiki/File:Roasted_coffee_beans.jpg). Public domain. Imagen redimensionada.
+- barro: Factorylad. [Mug_of_Tea.JPG](https://commons.wikimedia.org/wiki/File:Mug_of_Tea.JPG). Public domain. Imagen redimensionada.
